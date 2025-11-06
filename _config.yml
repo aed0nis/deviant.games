@@ -21,12 +21,12 @@ title                    : "Deviant Games"
 title_separator          : "- "
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Aedonis"
-description              : "Game Master, Content Creator, and TTRPG Enthusiast"
+description              : "A community for GMs, players, and gamers."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : aed0nis/aedonis.me"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/img/favicon/favicon-96x96.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
