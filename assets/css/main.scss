@@ -364,15 +364,17 @@ article.page {
   position: relative;
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   min-height: 340px;
   display: flex;
   align-items: flex-end;
   border-bottom: 1px solid #1d1d1d;
+  overflow: hidden;
 
   .overlay {
     width: 100%;
     padding: 2rem;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
+    background: linear-gradient(to top,  rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.70) 55%, rgba(0, 0, 0, 0)100%);
     color: var(--text);
   }
 
@@ -417,6 +419,15 @@ article.page {
     }
   }
 }
+
+/* Override inline background by combining layers */
+.game-hero[style] {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-blend-mode: normal;
+}
+
 
 .game-summary {
   background: var(--card-bg);
