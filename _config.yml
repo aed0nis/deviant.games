@@ -24,7 +24,7 @@ name                     : "Aedonis"
 description              : "A community for GMs, players, and gamers."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : aed0nis/aedonis.me"
+repository               : aed0nis/deviant.games"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/img/favicon/favicon-96x96.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
