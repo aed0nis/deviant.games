@@ -2,7 +2,7 @@
 layout: game
 title: "Freedom!"
 system: "DND 5E 2024"
-status: "recruiting"
+status: "starting"
 players: 4-5
 schedule: "TBD"
 subtitle: "4 Session One-shot"

@@ -181,6 +181,13 @@ article.page {
   background: rgba(28, 107, 255, 0.12);
   border-color: rgba(28, 107, 255, 0.3);
 }
+
+.status-pill.starting {
+  color: #e0dd03;
+  background: rgba(97, 104, 0, 0.12);
+  border-color: rgba(153, 150, 0, 0.3);
+}
+
 .status-pill.full,
 .status-pill.inactive {
   color: #999;
@@ -416,6 +423,10 @@ article.page {
     &.inactive {
       background: rgba(255, 255, 255, 0.05);
       color: #aaa;
+    }
+    &.starting {
+      background: rgba(129, 138, 0, 0.05);
+      color: #ffe600;
     }
   }
 }
