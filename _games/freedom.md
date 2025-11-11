@@ -11,6 +11,8 @@ thumb: "/assets/img/games/freedom_darksun.jpg"
 resources:
   - title: "Dark Sun Player’s Guide – AthasCon v2.1 (2024)"
     url: "https://cdn.discordapp.com/attachments/1434987382800908353/1434989315712094399/Dark_Sun_Players_Guide_-_Athascon_V2.1.pdf?ex=690cf871&is=690ba6f1&hm=e169e0b62048f97ec15e017b381427e15f1b05d1da326917250567fab0809f95&"
+  - title: "Dark Sun 5e Fillable Character Sheet"
+    url: "https://athas.org/resources/c6e3153f-b658-4989-9966-518848158ce2"
 ---
 
 - **Tone:** Harsh survival • Defiance under tyranny • Grit and consequence
