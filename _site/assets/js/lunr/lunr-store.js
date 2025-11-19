@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Freedom!",
-        "excerpt":"Tone: Harsh survival • Defiance under tyranny • Grit and consequence Level: 3 Length: 4-5 sessions (4 hours each hours total) Players Needed: 4-5 to begin Beneath the dying sun of Athas, life is worth less than water. You begin as slaves — beaten, broken, and forgotten — until revolt...","categories": [],
+        "excerpt":"Tone: Harsh survival • Defiance under tyranny • Grit and consequence Level: 3 Length: 4-6 sessions (2 hours each hours total) Players Needed: 4-5 to begin Beneath the dying sun of Athas, life is worth less than water. You begin as slaves — beaten, broken, and forgotten — until revolt...","categories": [],
         "tags": [],
         "url": "/games/freedom/",
         "teaser": null

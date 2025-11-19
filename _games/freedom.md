@@ -4,8 +4,8 @@ title: "Freedom!"
 system: "DND 5E 2024"
 status: "starting"
 players: 4-5
-schedule: "TBD"
-subtitle: "4 Session One-shot"
+schedule: "November 24th, 2025 4pm-6pm PST"
+subtitle: "4-6 Session One-shot"
 short-description: "Freedom! is a classic Dark Sun adventure where enslaved heroes spark a rebellion in the brutal city-state of Tyr, igniting a desperate fight for liberty under the burning crimson sun."
 thumb: "/assets/img/games/freedom_darksun.jpg"
 resources:
@@ -17,7 +17,7 @@ resources:
 
 - **Tone:** Harsh survival • Defiance under tyranny • Grit and consequence
 - **Level:** 3
-- **Length:** 4-5 sessions (4 hours each hours total)
+- **Length:** 4-6 sessions (2 hours each hours total)
 - **Players Needed:** 4-5 to begin
 
 > Beneath the dying sun of Athas, life is worth less than water.
