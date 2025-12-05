@@ -2,10 +2,10 @@
 layout: game
 title: "Freedom!"
 system: "DND 5E 2024"
-status: "starting"
-players: 4-5
-schedule: "November 24th, 2025 4pm-6pm PST"
-subtitle: "4-6 Session One-shot"
+status: "In Progress"
+players: 5
+schedule: "December 8th, 2025 4pm-6pm PST"
+subtitle: "6 Session One-shot"
 short-description: "Freedom! is a classic Dark Sun adventure where enslaved heroes spark a rebellion in the brutal city-state of Tyr, igniting a desperate fight for liberty under the burning crimson sun."
 thumb: "/assets/img/games/freedom_darksun.jpg"
 resources:
