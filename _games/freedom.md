@@ -2,7 +2,7 @@
 layout: game
 title: "Freedom!"
 system: "DND 5E 2024"
-status: "In Progress"
+status: "active"
 players: 5
 schedule: "December 8th, 2025 4pm-6pm PST"
 subtitle: "6 Session One-shot"
