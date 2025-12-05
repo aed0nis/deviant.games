@@ -99,6 +99,35 @@ breadcrumbs.html %} {% endunless %} {% endif %}
             Link" }}</a
           >
         </div>
+        {% endif %} {% assign game_updates = site.updates | where: "game_id",
+        page.game_id | sort: "date" | reverse %} {% if game_updates and
+        game_updates.size > 0 %}
+        <section class="game-updates">
+          <h2>Updates & Handouts</h2>
+          <ul class="game-updates__list">
+            {% for up in game_updates limit:5 %}
+            <li>
+              <a href="{{ up.url | relative_url }}">{{ up.title }}</a>
+              <span class="game-updates__date"
+                >{{ up.date | date: "%b %-d, %Y" }}</span
+              >
+              {% if up.kind %}
+              <span class="game-updates__tag">{{ up.kind }}</span>
+              {% endif %}
+            </li>
+            {% endfor %}
+          </ul>
+
+          {% if game_updates.size > 5 %}
+          <p class="game-updates__more">
+            <a
+              href="{{ '/games/' | append: page.game_id | append: '/updates/' | relative_url }}"
+            >
+              View all updates for {{ page.title }} →
+            </a>
+          </p>
+          {% endif %}
+        </section>
         {% endif %}
       </section>
 
@@ -107,7 +136,7 @@ breadcrumbs.html %} {% endunless %} {% endif %}
         <h4 class="page__meta-title">
           {{ site.data.ui-text[site.locale].meta_label }}
         </h4>
-        {% endif %} {% include page__taxonomy.html %} 
+        {% endif %} {% include page__taxonomy.html %}
       </footer>
 
       {% if page.share %}{% include social-share.html %}{% endif %} {% include

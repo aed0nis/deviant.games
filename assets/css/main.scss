@@ -623,4 +623,10 @@ article.page {
   margin: 0.4rem 0 0.6rem;
 }
 
+.game-updates__list { list-style:none; padding-left:0; }
+.game-updates__list li { margin-bottom:.35rem; }
+.game-updates__date { opacity:.7; margin-left:.4rem; font-size:.9rem; }
+.game-updates__tag { margin-left:.4rem; font-size:.7rem; text-transform:uppercase; opacity:.7; }
+
+
 @import "minimal-mistakes"; // main partials

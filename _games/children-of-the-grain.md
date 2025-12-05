@@ -1,4 +1,5 @@
 ---
+game_id: children-of-the-grain
 layout: game
 title: "Children of the Grain"
 system: "DND 5E 2024"

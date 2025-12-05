@@ -319,6 +319,9 @@ collections:
   products:
     output: true
     permalink: /:collection/:path/
+  updates:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults

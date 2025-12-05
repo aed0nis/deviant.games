@@ -1,4 +1,5 @@
 ---
+game_id: freedom
 layout: game
 title: "Freedom!"
 system: "DND 5E 2024"

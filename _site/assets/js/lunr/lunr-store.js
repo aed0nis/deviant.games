@@ -28,4 +28,10 @@ var store = [{
         "tags": [],
         "url": "/products/child-of-the-grain/",
         "teaser": null
+      },{
+        "title": "Tyr Evening Tribune – High Sun Edition",
+        "excerpt":"THE TYR EVENING TRIBUNE “Proudly Serving the Shadow of the King’s Ziggurat” Issue Date: High Sun, 190th Year of the King’s Age Foreign Disturbances Reported at the Caravan Gate City workers at the Caravan Gate reported morning unrest after a rare Ssurran wanderer allegedly caused a disruption at a fruit...","categories": [],
+        "tags": [],
+        "url": "/updates/freedom-tribune-01/",
+        "teaser": null
       }]

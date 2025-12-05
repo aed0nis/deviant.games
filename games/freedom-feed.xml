@@ -1,0 +1,26 @@
+---
+layout: nil
+permalink: /games/freedom/feed.xml
+game_id: freedom
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Freedom! – Updates (Deviant Games)</title>
+  <link>{{ site.url }}{{ '/games/freedom/' | relative_url }}</link>
+  <description>Session notes, handouts, and in-world news for the Freedom! campaign.</description>
+  <language>en-us</language>
+
+  {% assign game_updates = site.updates | where: "game_id", page.game_id | sort: "date" | reverse %}
+  {% for up in game_updates %}
+  <item>
+    <title>{{ up.title | xml_escape }}</title>
+    <link>{{ site.url }}{{ up.url }}</link>
+    <guid>{{ site.url }}{{ up.url }}</guid>
+    <pubDate>{{ up.date | date_to_rfc822 }}</pubDate>
+    <description>{{ up.excerpt | default: up.content | strip_html | truncate: 280 | xml_escape }}</description>
+  </item>
+  {% endfor %}
+</channel>
+</rss>

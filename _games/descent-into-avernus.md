@@ -1,4 +1,5 @@
 ---
+game_id: descent-into-avernus
 layout: game
 title: "Descent into Avernus"
 system: "DND 5e 2024"

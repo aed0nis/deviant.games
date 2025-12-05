@@ -1,4 +1,5 @@
 ---
+game_id: sablewood-messengers
 layout: game
 title: "The Sablewood Messengers"
 system: "Daggerheart"
