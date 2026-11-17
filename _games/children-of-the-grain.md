@@ -3,10 +3,10 @@ game_id: children-of-the-grain
 layout: game
 title: "Children of the Grain"
 system: "DND 5E 2024"
-status: "recruiting"
+status: "starting"
 players: 2-5
 schedule: "TBD"
-subtitle: "One-shot Aventure"
+subtitle: "One-shot Adventure"
 short-description: "The people of Eden’s Rest have sent for help. Their livelihood is at risk, and they need capable travelers to set things right. It sounds simple—at least, that’s how it’s told."
 thumb: "/assets/img/games/Children_of_the_Grain.png"
 ---
