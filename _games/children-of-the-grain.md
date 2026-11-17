@@ -2,7 +2,7 @@
 game_id: children-of-the-grain
 layout: game
 title: "Children of the Grain"
-system: "DND 5E 2024"
+system: "Cairn 2e"
 status: "starting"
 players: 2-5
 schedule: "TBD"
@@ -12,7 +12,7 @@ thumb: "/assets/img/games/Children_of_the_Grain.png"
 ---
 
 - **Tone**: Slow mystery • Rural unease • Roleplay-focused
-- **Level**: 3 (pre-gen or your own)
+- **Characters**: Pre-gen or roll your own
 - **Length**: 3–5 hours
 - **Players Needed**: 3–5 to begin
 
