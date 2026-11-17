@@ -24,21 +24,22 @@ thumb: "/assets/img/games/Children_of_the_Grain.png"
 
 Eden’s Rest is a valley of gold fields in a country where nothing else grows. Its people are kind, its tables are full, and everyone wears a plait of wheat at the wrist. They’d like you to stay for the harvest festival. Both nights.
 
-*Children of the Grain* is a slow-burn horror story about hospitality, hunger, and what a place will pay to keep its fields green. There is a mystery, but you can’t fail it: the valley will show you what it is whether you ask or not. What matters is what you do when you understand. Every table ends differently, and every ending costs someone something.
+*Children of the Grain* is a slow-burn folk-horror one-shot about hospitality and hunger. Every table ends differently.
 
 **What to Expect**
-- Low combat, high dread. One ambush, one thing in the fields, and a final scene that is less a fight than a choice.
+- Low combat, high dread.
 - Characters are pregenerated with a personal omen each; no prep needed.
 - Cairn 2e: rules-light, deadly, no rolls to persuade or perceive. If you can see it, you see it. If you say it, it’s said.
 - Safety tools in use. Lines and veils set at the table.
 
 **Content Warnings**
 
-Harm to a child (off-screen, never described), folk-horror ritual sacrifice, famine and starvation, grief, body horror (plant/soil), player-versus-NPC violence that may include killing an elderly woman. No sexual content.
+This is a horror game with mature themes. The full list is hidden below because it hints at the story.
 
-**Tone Touchstones**
-
-*The Wicker Man*, *Midsommar*, *Harvest* (Jim Crace), Shirley Jackson’s “The Lottery.”
+<details>
+  <summary>Show content warnings (mild spoilers)</summary>
+  <p>Harm to a child (off-screen, never described), folk-horror ritual sacrifice, famine and starvation, grief, body horror (plant/soil), player-versus-NPC violence that may include killing an elderly woman. No sexual content.</p>
+</details>
 
 **Players Should Bring**
 
